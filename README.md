@@ -4,4 +4,4 @@ Group 84:
 Christian Mendoza,
 Sujan Thapa,
 Krishna Shrestha,
-Roshna Roka,
+Roshna Roka
